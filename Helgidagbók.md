@@ -1,0 +1,1 @@
+# Dagbók Helga - lokaverkefni verksmiðju
