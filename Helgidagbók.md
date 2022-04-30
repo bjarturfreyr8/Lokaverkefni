@@ -1,20 +1,4 @@
-# Dagbók Helga - lokaverkefni verksmiðju
-Dagbók sem fjallar um allt ferlið mitt við vinnu í lokaverkefninu.
-
-## Föstudagurinn 22.04
-Ákváðum hugmynd og keyptum íhluti
-
-## Þriðjudagurinn 26.04
-Unnum í verkefninu. Kóðanum og öllu saman.
-
-## Fimmtudagurinn 28.04 (Enginn tími)
-Undirbúningur fyrir föstudaginn og hannað hulstur.
-
-## Föstudagurinn 29.04
-Kynningin gerð upp á nýtt með markdown en ekki kynnt fyrir bekk og dagbækur kláraðar.
-
-
-# Dagbók Helga í lokaverkefni
+ # Dagbók Helga í lokaverkefni
 
 ## Föstudagurinn 22.04
 22. apríl var fyrsti lokaverkefnis tíminn. Ég og Bjartur Freyr mótuðum okkar hóp og vorum aðeins tveir. Bjartur hefur ákveðna reynslu á Arduino og svoleiðis tómstundir og kom með frábæra hugmynd. Við ákváðum að gera kortalesara fyrir kort sem síðan opnar hurðalás. Við fórum í Íhluti verslunina til að skoða og leita okkur af hurðalás en því miður var lokað svo ég stakk upp á að við drifum okkur bara í húsasmiðjuna. Þar leituðum við af lás og fundum flottan sem okkur þótti passa vel. Föstudagurinn fór vel og við fundum flotta hugmynd og vorum spenntir að halda áfram eftir helgi.
@@ -26,21 +10,20 @@ Mitt hlutverk: hugmyndaþróun, skipulögð ferð að versla íhluti í verkefni
 
 Myndbandið sem við notuðumst við: https://www.youtube.com/watch?v=_9unR083OPY&list=PLV4q1AF3hWblkWCiVy9c0uAwrUgKhmBGv&index=29
 
-Mitt hlutverk:
-
---
+Mitt hlutverk: Leita hjálpar á netinu, hjálpa með kortalesarann og skrifa í dagbókina.
 
 ## Fimmtudagurinn 28.04
-Fimmtudaginn unnum við í verkefninu eftir skólan í verkefninu að reyna að láta servo motor fara í 180 gráður þegar rétta kort er sett á skynjaran, einnig að grænt LED ljós lýsi upp þegar það er sett á en þegar vitlaust kort er sett á þá lýsist rauð LED ljós. Ég var mjög lengi af þessu en náði ekki að láta motorinn virka þannig að ég hafði bara LED ljós, ég leitaði út um allt á netinu en fann ekki út úr því. Einnig prentaði ég út Laser box í framtíðarstofunni með gat ofan á boxinu til þess að seta kortið á skynjaran.
+Á fimmtudaginn var ekki verksmiðju tími heldur unnum við í verkefninu eftir skólann. Við reynudum að tengja servo motorinn og láta hann snúast um 180 gráður þegar rétt kort er lesið á kortaskynjaranum. Bjartur reyndi að láta mótorinn virka en ekkert gerðist og það var engin leið að láta hann virka. Þannig eftir langan tíma að reyna ákvað ég að við ættum bara að sleppa mótornum og notast aðeins við díóðu ljósin rauða og græna. Við prentuðum síðan laser boxið. Um kvöldið vann ég í dagbókunum, kynningu og að setja allt upp sem þurfti á GitHub.
 
-Tími sem var unnin: 11:35-16:20( 4 klst, 45 mín)
+Mitt hlutverk: Hjálpa að tengja servo motorinn (lítil hjálp), taka ákvarðanir fyrir verkefnið og skipuleggja næstu skref og kynningin.
 
 ## Föstudagurinn 29.04
 
-Föstudaginn vorum við áætlaðir að kynna verkefnið kl 8:10 en kynningin hefur ekki vistast hjá Helga svo hann þurfti að gera hana aftur.
-Mér langar bara að segja að við hefðum getað lagt okkur meira fram en ég gerði allt sem ég gat til að láta þetta virka af því að Helgi var veikur mikið af áfanganum og vissi ekki mikið hvað átti að gera í Ardunioinu.
-Einnig lenti ég á spítalanum í páskafríinu af því að lungun mín féllu saman og ég þurfti að fara í aðgerð og vera þar í viku.
+Fyrsti tími skóladagsins var verksmiðja og við Bjartur áttum að kynna þá klukkan 8:10 en því miður var ég veikur heima og síðan hafði kynningin hafði ekki heldur vistast því repo fileið var ekki til lengur og var eins og ég hafði unnið þetta í vitlaust repo en ég fann ekkert annað repo. Þá þurfti ég bara að gera allt upp á nýtt :).
+Verkefnið gekk ekki eins og við ætluðum okkur og vegna skort á kunnáttu á Arduino gátum við ekki haft mótorinn með og þar með ekki hægt að klára það sem við ætluðum okkur.
 
-En þetta var skemmtilegasti áfanga sem ég hef farið í á minni ævi, ég hef svo mikin áhuga á Arduino og rafmagni, hef verið að gera arduino og fleira í mörg ár.
+Mér fannst mjög gaman að vinna með Arduino og fá að læra á þessa tækni er mjög góð reynsla. Ég lagði mig ekki mikið fram við verkefni og það hjálpaði ekki að lenda í flensu í tvær vikur samfellt og vera rúmfastur. Með svona áfanga þar sem hver einasti tími skiptir máli og maður er alltaf að læra eitthvað nýtt gat ég ekki bara unnið gömul verkefni án hjálpar. Núna er ég líklegast búinn að skila inn flestum eldri verkefnunum því ég ætla að fá hjálp frá bekkjarfélögum að vinna þau. Ég sendi þér (Geir) verkefnin í email og vona að þú afsakar seinkunina og vesenið.
 
-Takk fyrir áfangan!!!
+Takk kærlega fyrir áfangann.
+Helgi Myrkvi Douglas Valgeirsson
+Valgeirssonhelgi@gmail.com
