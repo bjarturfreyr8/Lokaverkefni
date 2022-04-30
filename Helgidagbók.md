@@ -13,7 +13,7 @@ Myndbandið sem við notuðumst við: https://www.youtube.com/watch?v=_9unR083OP
 Mitt hlutverk: Leita hjálpar á netinu, hjálpa með kortalesarann og skrifa í dagbókina.
 
 ## Fimmtudagurinn 28.04
-Á fimmtudaginn var ekki verksmiðju tími heldur unnum við í verkefninu eftir skólann. Við reynudum að tengja servo motorinn og láta hann snúast um 180 gráður þegar rétt kort er lesið á kortaskynjaranum. Bjartur reyndi að láta mótorinn virka en ekkert gerðist og það var engin leið að láta hann virka. Þannig eftir langan tíma að reyna ákvað ég að við ættum bara að sleppa mótornum og notast aðeins við díóðu ljósin rauða og græna. Við prentuðum síðan laser boxið. Um kvöldið vann ég í dagbókunum, kynningu og að setja allt upp sem þurfti á GitHub.
+Á fimmtudaginn var ekki verksmiðju tími heldur unnum við í verkefninu eftir skólann. Við reynudum að tengja servo motorinn og láta hann snúast um 180 gráður þegar rétt kort er lesið á kortaskynjaranum. Bjartur reyndi að láta mótorinn virka en ekkert gerðist og það var engin leið að láta hann virka. Þannig eftir langan tíma að reyna ákvað ég að við ættum bara að sleppa mótornum og notast aðeins við díóðu ljósin rauða og græna. Við prentuðum síðan laser boxið. Um kvöldið vann ég í dagbókunum (minni og hópdagbókinni), kynningu og að setja allt upp sem þurfti á GitHub.
 
 Mitt hlutverk: Hjálpa að tengja servo motorinn (lítil hjálp), taka ákvarðanir fyrir verkefnið og skipuleggja næstu skref og kynningin.
 
