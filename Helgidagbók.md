@@ -1,7 +1,7 @@
  # Dagbók Helga í lokaverkefni
 
 ## Föstudagurinn 22.04
-22. apríl var fyrsti lokaverkefnis tíminn. Ég og Bjartur Freyr mótuðum okkar hóp og vorum aðeins tveir. Bjartur hefur ákveðna reynslu á Arduino og svoleiðis tómstundir og kom með frábæra hugmynd. Við ákváðum að gera kortalesara fyrir kort sem síðan opnar hurðalás. Við fórum í Íhluti verslunina til að skoða og leita okkur af hurðalás en því miður var lokað svo ég stakk upp á að við drifum okkur bara í húsasmiðjuna. Þar leituðum við af lás og fundum flottan sem okkur þótti passa vel. Föstudagurinn fór vel og við fundum flotta hugmynd og vorum spenntir að halda áfram eftir helgi.
+22 apríl var fyrsti lokaverkefnis tíminn. Ég og Bjartur Freyr mótuðum okkar hóp og vorum aðeins tveir. Bjartur hefur ákveðna reynslu á Arduino og svoleiðis tómstundir og kom með frábæra hugmynd. Við ákváðum að gera kortalesara fyrir kort sem síðan opnar hurðalás. Við fórum í Íhluti verslunina til að skoða og leita okkur af hurðalás en því miður var lokað svo ég stakk upp á að við drifum okkur bara í húsasmiðjuna. Þar leituðum við af lás og fundum flottan sem okkur þótti passa vel. Föstudagurinn fór vel og við fundum flotta hugmynd og vorum spenntir að halda áfram eftir helgi.
 
 Mitt hlutverk: hugmyndaþróun, skipulögð ferð að versla íhluti í verkefnið og að velja lás.
 
